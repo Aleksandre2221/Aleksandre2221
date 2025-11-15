@@ -18,4 +18,4 @@ I'm **Alex**, 23 years old, and a **self-taught Data Analyst**. I love learning 
 ---
 
 Feel free to **explore my work and connect with me!** 🚀
-• [LinkedIn]: https://www.linkedin.com/in/aleksandre-kobidze-249965359/
+• [LinkedIn](https://www.linkedin.com/in/aleksandre-kobidze-249965359/)
