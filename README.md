@@ -18,3 +18,4 @@ I'm **Alex**, 23 years old, and a **self-taught Data Analyst**. I love learning 
 ---
 
 Feel free to **explore my work and connect with me!** 🚀
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
