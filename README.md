@@ -7,7 +7,7 @@ I'm **Alex**, 23 years old, and a **self-taught Data Analyst**. I love learning 
 ### ℹ️ A few things about me:
 
 - ✅ **Discipline & Consistency**  
-  I maintain a steady learning and problem-solving streak. You can check my progress here on GitHub or my [LeetCode profile](https://leetcode.com/u/1PdeKXvscm/).
+  I maintain a steady learning and problem-solving streak. You can check my progress here on GitHub or my [LeetCode](https://leetcode.com/u/1PdeKXvscm/) profile.
 
 - 🛠️ **Skills**  
   Hands-on experience with **Python, ML, SQL, Excel, PowerBI**, and data visualization tools. Explore my [Portfolio Projects](https://github.com/Aleksandre2221/DA_Portfolio_Projects) to see them in action.
