@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there 👋
+## I'm Alex, 23 years old, and a self-taught Data Analyst. I love learning by doing, and I’ve built a few projects that showcase my skills and passion for data.
+
+Here are a few things that define me:
+1. **Discipline & Consistency:** I keep a steady learning and problem-solving streak, which you can see on my GitHub and LeetCode.  
+2. **Skills:** I have hands-on experience with Python, SQL, Excel, and data visualization tools. Check out my portfolio projects to see them in action.  
+3. **Passion:** I enjoy analyzing data and building projects that solve real problems. My GitHub profile reflects this dedication.
+
+Feel free to explore my work and connect with me! 🚀
 
 <!--
 **Aleksandre2221/Aleksandre2221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
